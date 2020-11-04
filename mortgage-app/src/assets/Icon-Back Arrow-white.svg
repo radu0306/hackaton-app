@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="26px" viewBox="0 0 30 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back BTN</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Buying" transform="translate(-1178.000000, -225.000000)" fill="#ffffff">
+            <g id="Rectangle-Copy-26" transform="translate(1146.000000, 170.000000)">
+                <g id="Back-BTN" transform="translate(32.000000, 55.000000)">
+                    <path d="M1.5,6 L17.75,6 C18.5784271,6 19.25,6.67157288 19.25,7.5 L19.25,8 C19.25,8.82842712 18.5784271,9.5 17.75,9.5 L1.5,9.5 C0.671572875,9.5 -3.8198454e-11,8.82842712 -3.81987775e-11,8 L-3.81987775e-11,7.5 C-3.81986569e-11,6.67157288 0.671572875,6 1.5,6 Z" id="Rectangle" transform="translate(9.625000, 7.750000) rotate(-40.000000) translate(-9.625000, -7.750000) "></path>
+                    <path d="M0.876943918,16.5 L17.1269439,16.5 C17.955371,16.5 18.6269439,17.1715729 18.6269439,18 L18.6269439,18.5 C18.6269439,19.3284271 17.955371,20 17.1269439,20 L0.876943918,20 C0.0485167933,20 -0.623056082,19.3284271 -0.623056082,18.5 L-0.623056082,18 C-0.623056082,17.1715729 0.0485167933,16.5 0.876943918,16.5 Z" id="Rectangle-Copy" transform="translate(9.001944, 18.250000) rotate(40.000000) translate(-9.001944, -18.250000) "></path>
+                    <rect id="Rectangle-Copy-11" x="4" y="11" width="26" height="4" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
