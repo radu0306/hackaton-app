@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { GetStartedPageComponent } from './components/get-started-page/get-started-page.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    GetStartedPageComponent
+    GetStartedPageComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
